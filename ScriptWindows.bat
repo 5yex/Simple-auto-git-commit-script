@@ -1,6 +1,6 @@
 @echo off 
 
-set directorio=%userprofile%\Documents\sync2022
+set directorio=%cd%
 set segundos=10
 
 cd %directorio%
